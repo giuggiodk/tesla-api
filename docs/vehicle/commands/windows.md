@@ -5,7 +5,7 @@
 Controls the windows. Will vent or close all windows simultaneously.
 
 `lat` and `lon` values must be near the current location of the car for
-`close` operation to succeed.  For `vent`, the `lat` and `lon` values are
+`vent` operation to succeed.  For `close`, the `lat` and `lon` values are
 ignored, and may both be `0` (which has been observed from the app itself).
 
 ### Parameters
